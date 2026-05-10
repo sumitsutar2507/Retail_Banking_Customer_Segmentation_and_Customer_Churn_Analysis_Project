@@ -136,9 +136,7 @@ This helped identify:
 
 ## Power BI Dashboard
 
-```markdown
-![Dashboard Screenshot](Dashboard_Images/Dashboard_Screenshot.png)
-```
+![Dashboard Preview](Dashboard%20Images/Dashboard%20Screenshot.png)
 
 ---
 
