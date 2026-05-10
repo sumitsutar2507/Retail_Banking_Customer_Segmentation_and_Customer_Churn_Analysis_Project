@@ -132,6 +132,16 @@ This helped identify:
 
 ---
 
+# 📸 Dashboard Preview
+
+## Power BI Dashboard
+
+```markdown
+![Dashboard Screenshot](Dashboard_Images/Dashboard_Screenshot.png)
+```
+
+---
+
 # 📊 Power BI Dashboard Features
 
 ## Dashboard KPIs
@@ -209,18 +219,6 @@ Retail-Banking-Customer-Segmentation-Churn-Analysis/
 │   └── Dashboard_Screenshot.png
 │
 └── README.md
-```
-
----
-
-# 📸 Dashboard Preview
-
-## Power BI Dashboard
-
-> Add your dashboard screenshot here
-
-```markdown
-![Dashboard Screenshot](Dashboard_Images/Dashboard_Screenshot.png)
 ```
 
 ---
